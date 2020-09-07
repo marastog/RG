@@ -1,0 +1,16 @@
+{
+    "version": "0.1.0",
+    "configurations": [
+        {
+            "type": "prophet",
+            "request": "launch",
+            "name": "Debugger",
+            "hostname": "zzrj-005.sandbox.us01.dx.commercecloud.salesforce.com",
+            "username": "manu.rastogi@capgemini.com>",
+            "password": "Zx@123456778",
+            "codeversion": "RG",
+            "cartridgeroot": "C:\RG",
+            "workspaceroot": "RG"
+        }
+    ]
+}

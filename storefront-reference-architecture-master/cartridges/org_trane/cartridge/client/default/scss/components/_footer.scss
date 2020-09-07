@@ -2,26 +2,26 @@
 @import "toastMessage";
 
 footer {
-    background-color: $grey-12; 
+    background-color: $grey-12;
     padding-top: 1.25em; /* 20/16 */
     padding-bottom: 1.25em;
-
 
     .container {
         padding: 3.8em;
     }
-    
+
     .footer-nav {
         .current-menu-item {
-        
             a {
                 color: $white;
+            }
         }
-    }
+
         li {
-            a:hover{
+            a:hover {
                 color: $orange-red;
             }
+
             a {
                 font-family: "Open Sans", sans-serif;
                 font-size: 0.9rem;
@@ -29,13 +29,12 @@ footer {
                 line-height: 1.2;
                 color: $grey-11;
                 margin-bottom: 0.5rem;
-                text-decoration:none;
+                text-decoration: none;
                 cursor: pointer;
                 list-style: none;
             }
         }
     }
-    
 
     h2 {
         font-size: $font-size-base;
@@ -63,7 +62,7 @@ footer {
 
     .footer-container .footer-item.collapsible-xs button {
         font-family: "Dosis", sans-serif;
-        padding: 0em;
+        padding: 1em;
     }
 
     .social-links {
@@ -87,6 +86,7 @@ footer {
 
         a {
             font-size: 2.25em;
+
             &:hover {
                 text-decoration: none;
             }

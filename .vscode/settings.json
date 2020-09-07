@@ -1,0 +1,7 @@
+
+    {
+        "editor.renderControlCharacters": true,
+        "editor.renderWhitespace": "all",
+        "eslint.autoFixOnSave": true,
+        "extension.prophet.upload.enabled": true
+     }
